@@ -40,3 +40,6 @@ lst=[5,4,3,2,1]
 quickSort(0,len(lst)-1,lst)
 
 print(lst)
+print(lst)
+print(lst)
+
